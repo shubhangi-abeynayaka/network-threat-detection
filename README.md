@@ -13,7 +13,7 @@ Existing studies on intrusion detection concentrate on model accuracy. This proj
 | Source | Use |
 |---|---|
 | [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset) (~2.54M flows, 49 features, 9 attack types) | Network flows |
-| IP-to-country database ([IPinfo]([https://www.kaggle.com/datasets/ipinfo/ipinfo-country-asn))) | Country of each distinct source IP |
+| [IP-to-country](https://www.kaggle.com/datasets/ipinfo/ipinfo-country-asn) | Country of each distinct source IP |
 
 
 ## Design principles
